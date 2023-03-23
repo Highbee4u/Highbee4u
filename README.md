@@ -2,7 +2,7 @@
 
 Ibrahim is my name, a Backend Software Engineer with corgnite experience in application development and management. I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/brahim-adeyemi-0701239a-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-adeyemi-0701239a/)](https://www.linkedin.com/in/ibrahim-adeyemi-0701239a/)
+[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-adeyemi-0701239a/)](https://www.linkedin.com/in/ibrahim-adeyemi-0701239a/)
 [![Gmail Badge](https://img.shields.io/badge/-highbee4u@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:highbee4u@gmail.com)](mailto:highbee4u@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/highbee4u-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/highbee4u/)](https://www.facebook.com/highbee4u/)
 
