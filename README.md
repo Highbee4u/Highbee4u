@@ -5,6 +5,7 @@ Ibrahim is my name, a Backend Software Engineer with corgnite experience in appl
 [![Linkedin Badge](https://img.shields.io/badge/-Ibrahim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-adeyemi-0701239a/)](https://www.linkedin.com/in/ibrahim-adeyemi-0701239a/)
 [![Gmail Badge](https://img.shields.io/badge/-highbee4u@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:highbee4u@gmail.com)](mailto:highbee4u@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/highbee4u-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/highbee4u/)](https://www.facebook.com/highbee4u/)
+[![Twitter Badge](https://img.shields.io/badge/-Ibrahim-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/I_am_salami)](https://twitter.com/I_am_salami)
 
 
 
