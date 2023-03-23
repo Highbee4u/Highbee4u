@@ -27,6 +27,7 @@ Ibrahim is my name, a Backend Software Engineer with corgnite experience in appl
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=highbee4u&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=highbee4u&theme=radical)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=highbee4u&hide=TeX&layout=compact&theme=radical)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=highbee4u)
