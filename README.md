@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-Ibrahim is my name, a Backend Software Engineer with cornite experience in application development and management. I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+Ibrahim is my name, a Backend Software Engineer with corgnite experience in application development and management. I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-adeyemi-0701239a/)](https://www.linkedin.com/in/ibrahim-adeyemi-0701239a/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:highbee4u@gmail.com)](mailto:mdraanik12@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/highbee4u/)
+[![Gmail Badge](https://img.shields.io/badge/-highbee4u@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:highbee4u@gmail.com)](mailto:highbee4u@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/highbee4u/)](https://www.facebook.com/highbee4u/)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 
 ## ⚡ Technologies
@@ -15,6 +16,7 @@ Ibrahim is my name, a Backend Software Engineer with cornite experience in appli
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
